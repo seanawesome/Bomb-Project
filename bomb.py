@@ -1,7 +1,7 @@
 #################################
 # CSC 102 Defuse the Bomb Project
 # Main program
-# Team: 
+# Team: Sean Boyle, Adam Stafford, Jeremy Benjamin
 #################################
 
 # import the configs
